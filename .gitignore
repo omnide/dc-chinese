@@ -1,0 +1,4 @@
+data/lwc/*.zip
+data/lwc/*.sql
+data/lwc/*.txt
+data/lwc/*.sqlite3
